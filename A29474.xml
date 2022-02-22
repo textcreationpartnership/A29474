@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Briefe relation of the most remarkeable feats and passages of what His Most Gracious Majesties commanders hath done in England against the rebells and of his severall glorious victories over them sithence [sic] Ianuary 1641. till December 1643. and from the first of May 1644. till the fifth of this present Iuly / collected out of severall papers printed at Oxford, 1644. and divers letters printed from His Majesties campe to Chester, Bristoll, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29474</idno>
+            <idno type="STC">Wing B4626</idno>
+            <idno type="STC">ESTC R39938</idno>
+            <idno type="EEBO-CITATION">18570048</idno>
+            <idno type="OCLC">ocm 18570048</idno>
+            <idno type="VID">108030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108030)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1647:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Briefe relation of the most remarkeable feats and passages of what His Most Gracious Majesties commanders hath done in England against the rebells and of his severall glorious victories over them sithence [sic] Ianuary 1641. till December 1643. and from the first of May 1644. till the fifth of this present Iuly / collected out of severall papers printed at Oxford, 1644. and divers letters printed from His Majesties campe to Chester, Bristoll, &amp;c.</title>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Waterford by Thomas Bovrke,</publisher>
+                  <pubPlace>[Waterford] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second part has caption title: A Continvance of the English newes.</note>
+                  <note>Imperfect: torn, cropped, and tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108030:1"/>
+            <pb facs="tcp:108030:1" rendition="simple:additions"/>
+            <p>A BRIEFE RELATION OF THE MOST REMARKEABLE FEATES AND PASSAGES Of what his moſt Gracious Majeſties Commanders hath done in England againſt the Rebells, and of His ſeverall glorious Victories over them, ſithence <hi>Ianuary</hi> 1641. till <hi>December</hi> 1643. And from the firſt of <hi>May</hi> 1644. till the fifth of this preſent <hi>Iuly.</hi>
+            </p>
+            <p>
+               <hi>Collected out of ſeverall papers printed at Oxford,</hi> 1644. <hi>And divers letters written from His Majeſties Campe to Chester, Briſtoll, &amp;c.</hi>
+            </p>
+            <figure>
+               <p>I F</p>
+               <p>RESPICTE VOLATILIA COELI ET FVLLOS CORVORVM</p>
+            </figure>
+            <p>Printed at Waterford by THOMAS BOV<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="relation_of_war">
+            <pb facs="tcp:108030:2"/>
+            <pb facs="tcp:108030:2"/>
+            <div n="January" type="month">
+               <head>IANVARY.</head>
+               <p>VPon the tenth of this Moneth 1641 His Majeſty, with the Queene, Prince, and Duke of Yorke, left White-Hall, &amp; went to Hampton Court to avoid the dan<g ref="char:EOLhyphen"/>ger of thoſe frequent tumults, then hazarding the ſafety of his Royall Perſon.</p>
+               <p>Vpon the 19. of this Moneth, 1642. a great victory was obtained by the Lord <hi>Hopton</hi> neere Bodmin, in the County of Cornewall, where was ſlaine in the purſuit 200. of the Rebels, and 700. taken priſoners (amongſt whom was Sir <hi>Shilſton Colm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dee)</hi> and 8. Colours, good ſtore of Ammunition, and five excellent braſſe guns, and one of iron.</p>
+               <p>Vpon the 22. day following, the Lord <hi>Hopton</hi> aſſaulted Saltaſh, forced the Town, where he tooke ten pieces of Ordnance, ſeven hundred more Priſoners, foure thouſand Armes, and a Ship with ſixten pieces of Ordnance.</p>
+               <p>Vpon the 27. of this Moneth, 1642. certaine of the Rebels under the command, of Maſter <hi>Iohn Hampden,</hi> to the number of 1800. foot, &amp; 7. or 8. Troops of Horſe, with two pieces of Ordnance, came before Brill, and made an aſſault upon it: But were ſo bravely repulſed by His Majeſties Forces there, under the command of Sir <hi>Gilbert Gerrald</hi> (the then Governour thereof) that they made all poſſible haſt away, His Majeſties horſes having the purſuit of them for above 4. miles, about eighty of them being found dead, and betwixt forty and fifty men wounded, which they had left together in a private houſe.</p>
+            </div>
+            <div n="February" type="month">
+               <head>FEBRVARY.</head>
+               <p>Vpon the ſecond of this Moneth, 1642. <hi>Cyrencester,</hi> or <hi>Cyceſter</hi>) in Glouceſter<g ref="char:EOLhyphen"/>ſhire, was taken by his Highneſſe Prince <hi>Rupert,</hi> with the loſſe of leſſe then twen<g ref="char:EOLhyphen"/>ty men of his Army, there being above three hundred of the Rebels ſlaine, &amp; above twelve hundred taken priſoners, of colours taken, one Coronet, two of Dragoons, and 14 foot Enſignes, together with all their Ordnance, Armes, and ammunition.</p>
+               <p>Vpon the 13. of this Moneth, 1642. the Queens Majeſty left the <hi>Hague,</hi> and went to <hi>Sciveling.</hi> And on the 16. day Her Majeſty imbarked againe in the Princeſſe Royall of Great Brittaine. And on the Sunday after came within ſight of <hi>Flambo<g ref="char:EOLhyphen"/>rough-head.</hi>
+               </p>
+               <p>On Monday, (being the twenty-of-this moneth) She caſt Anchor in the Harbour of <hi>Burlington bay.</hi> And the two and twenty day following (upon ſight of thouſand of his Excellency the Earle of <hi>Newcaſtles</hi> Horſe) landed at <hi>Burlington</hi> Key.</p>
+               <p>The 24. day in the morning, foure Ships and a Pinnace, in the Rebels ſervice, (which came overnight into the Road) made above one hundred great ſhot at the houſes in the Key, for two houres ſhooting Croſſe-barre-ſhot, and bullets of twelve pound weight, all of them aiming ſo neere as they could, at the houſe where the Queene lay. Inſomuch that Her Sacred Majeſty was forced to make what haſt. She could out of Her Bed, and to get under an hill to ſave Her life from the fury of theſe bloudy Rebels, who endevoured to murther Her. But God Almighty preſerved Her Majeſty both by Sea and Land.</p>
+            </div>
+            <div n="March" type="month">
+               <head>MARCH.</head>
+               <p>On the eighteenth and nineteenth of this moneth 1642. was a great battell on
+<pb facs="tcp:108030:3"/>Hopton-heath in Stafford ſhire, wherein <hi>Gell</hi> and <hi>Brereton</hi> (two cowardly Rebels) were routed by His Majeſties Forces under the command of the Right Honorable <hi>Spencer,</hi> then Earle of Northampton, in which fight, above three huddred of the Re<g ref="char:EOLhyphen"/>bels were taken and killed; at the leaſt 500. more wounded; above 300. of their horſe taken, eight pieces of Canon, with a great deale of their Ammunition; and the moſt Noble and valiant Earle of Northampton unfortunately ſlaine.</p>
+               <p>Vpon the 23. of this moneth, 1643. <hi>Gramham</hi> was taken in, by ſome of His Majeſties Forces under the command of Colonell <hi>Charles Cavendiſh:</hi> wherein was taken three hundred and ſixty priſoners withall the Captaines, and Officers, three foot Enſignes, two Cornets, together with three loads of armes &amp; ammunition. And afterwards the works demoliſhed.</p>
+            </div>
+            <div n="April" type="month">
+               <head>APRILL.</head>
+               <p>Vpon Monday the third day of this moneth, one thouſand ſix hundred forty three, Prince <hi>Rupert</hi> entred, &amp; poſſeſſed that ſeditious Tower of Burmingham, wherein was three hundred foot, and two Troopes of Horſe, who being gallantly charged by the Welſn-men, in leſſe then halfe an houre, forſooke their Breaſt-works, and retired to their Barricadoes within the Towne, wherein they found ſuch ſlender de<g ref="char:EOLhyphen"/>fence, that they tooke them to their heeles, and that ſo faſt, that though they were purſued aſſoone as the Prince had poſſeſſed the Towne, yet few of their Horſe were overtaken, onely about eighty of the Rebels were killed, and as many Priſo<g ref="char:EOLhyphen"/>ners taken; together with about one hundred and fifty muskets, and betwixt foure and five hundred ſwords, and three Colours.</p>
+               <p>Vpon the eleventh of this moneth 1643. there was a fight neere unto Ancaſter in the County of Lincolne, betwixt the Kings Forces under the command of Colo<g ref="char:EOLhyphen"/>nell <hi>Cavendiſh,</hi> and the Rebels of that County, under young <hi>Hotham</hi> (their Generall; in which fight the moſt part of the Rebels were ſlaine, &amp; taken priſoners, their Ge<g ref="char:EOLhyphen"/>nerall put to flight, &amp; their whole body totally routed.</p>
+               <p>On the one and twentieth day (being Friday) the Cloſe at Lichfield was yeelded up to Prince <hi>Rupert,</hi> together with the Ordnance &amp; Ammunition, all ſorts of armes (except the Horſe-mens armes, and a certaine number of Muſquets) and all ſuch Treaſure which had been formerly conveyed in thither &amp; did not properly, belong to the Souldiers there. Theſe ſouldiers were part of thoſe Forces under the com<g ref="char:EOLhyphen"/>mand of the late Lord <hi>Brooke</hi> (a great Leader in this Rebellion, and a malicious enemy to the Church) who was killed in his aſſaulting this Church by a ſhot into the eye, on Saint <hi>Chads</hi> day who was the firſt Biſhop of this See, in memory of whom this Cathedrall was built, and called Saint <hi>Chads</hi> Church.</p>
+               <p>Vpon Sunday (the laſt of this moneth, 1643.) his Excellencie the Earle of <hi>New<g ref="char:EOLhyphen"/>castles</hi> Forces, encountered with, and totally routed a whole Body of the Rebells (conſiſting of above three thouſand men) which were going to relieve the Towne of Leedes, killed fifteen hundred of them in the place, tooke two hundred and fourty priſoners, three pieces of Ordnance, together with all their victuall and Ammu<g ref="char:EOLhyphen"/>nition.</p>
+            </div>
+            <div n="May" type="month">
+               <head>MAY.</head>
+               <p>Vpon Saturday being the 6. of this moueth, 1643. <hi>Iames</hi> Earle of Northampton, the true heire of his fathers loyalty and valour, encountered with a Body of the
+<pb facs="tcp:108030:3"/>Rebels in Middleton-Cheney, Towne field neere Banbury (conſiſting of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hundred foot, and five Troops of Horſe) where he wholly routed their Foot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> two hundred and ſeventeen upon the plaine, tooke above three hundred priſoners, all their Ordnance, and Ammunition, 416 Muſquets, 150. piques, and above 500. ſwords, purſued the fugitive horſe, and killed, and tooke many of them: the reſt made what haſt they could to Northampton. In this fight his Lordſhip loſt but three men, and thoſe not of any note: Nor had above one Officer ſo much as hurt.</p>
+               <p>Vpon the 16. of this moneth, 1643. the Lord <hi>Hopton</hi> aſſaulted the great rebelli<g ref="char:EOLhyphen"/>ous Body then intrenched neere Straton, on the borders of Devonſhire, fought with them full ten houres; and having ſpent his ammunition, inſomuch that he had not Powder left to ſerve one houre longer, fell upon the Rebels with Swords, Piques, and Muſquet-ſtocks: And? with unexpreſſible valour) wholly routed the Rebels Army, killed many hundreds of them in the place, wounded many more; tooke 1700. priſoners, whereof above thirty Commanders, all their canon, being eleven pieces of braſſe Ordnance, and foure of iron; two morter pieces; 75. barrels of pow<g ref="char:EOLhyphen"/>der, with ſhot and match proportionable; betwixt two &amp; three thouſand armes: and three thouſand pound in money; there being not above 46. of the Kings Forces killed &amp; hurt, &amp; amongſt thoſe not any one Commander or Gentleman of quality.</p>
+               <p>Vpon the 20. of this moneth, 1642., it was voted by both Houſes, <hi>That the</hi> King <hi>intended to levy warre againſt the Parliament:</hi> which they did on purpoſe to excuſe them<g ref="char:EOLhyphen"/>ſelves, for raiſing a Rebellion againſt His Majeſty, as appeared within few dayes after.</p>
+            </div>
+            <div n="June" type="month">
+               <head>IVNE.</head>
+               <p>Vpon the eighteenth of this moneth, 1643. His Highneſſe Prince <hi>Rupert</hi> beat up the Quarters of the Rebels at Poſtcomhe and Chinner in Oxford-ſhire, killed ſome fifty of the Rebels there Quartered, tooke about 120. priſoners, almoſt all their horſes and armes, and three of <hi>Sir Samuel Lukes</hi> Dragoon-Cornets: obtained a great vi<g ref="char:EOLhyphen"/>ctory in Chalgrove field, and utterly defeated the Rebels horſe-men and dragoo<g ref="char:EOLhyphen"/>ners, ſlew divers of their Commanders, eſpecially Colonell <hi>Iohn Hampden</hi> (one of their <hi>five Members</hi> accuſed of High Treaſon) who in this fight received his mortall wound in this very Chalgrove field, where hee firſt muſtered, and drew up men in armes to put in execution the Rebellious Ordinance for the <hi>Militia.</hi>
+               </p>
+               <p>On Friday the laſt day of this moneth, 1643. his Excellency the Marqueſſe of Newcaſtle obtained a great Victory againſt the Northerne rebels, under the Lord <hi>Fairefax,</hi> upon Aderton heath, within the County of Yorke. In which fight, my Lord, ſoone put the rebels into ſuch confuſion, that they could not bee reduced a<g ref="char:EOLhyphen"/>gaine into any Order; untill he had gained all their five pieces of Canon; which he preſently turned againſt them; the ſight whereof did ſo terrify them, that they made what haſt they could towards <hi>Leedes.</hi> But finding that his Excellencies Horſes had intercepted that paſſage; their laſt ſhift was to recover Bradford, which was done in ſuch a diſorderly manner, that his Excellency in the purſuit of them killed and tooke above two thouſand, whereof above fiften hundred priſoners. As for their Generall <hi>Fairefax,</hi> he with much adoe made ſhift with one poore Troope of Horſe to get (at night) into Leedes, leaving the reſt to the mercy of the Victor.</p>
+            </div>
+            <div n="July" type="month">
+               <head>IVLY.</head>
+               <p>Vpon the firſt of this moneth 1643. the Marqueſſe of <hi>Newcaſtle</hi> beſieged Bradford,
+<pb facs="tcp:108030:4"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> upon it above fourty ſhot from his great Artillery; and the morrow after <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> himſelfe maſter of the Towne. In which he tooke <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>000. priſoners, with all the horſe, armes, and ammunition, which either the Rebels found in the Towne, or brought thither with them.</p>
+               <p>Hereupon the Rebels deſerted the Towne of Halifax, and preſently after <hi>Sir Hugh Cholmley</hi> fell upon Beverley, and tooke it for His Majeſty.</p>
+               <p>Vpon the ſecond of Iuly 1642. the Kings ſhip called the Providence, landed in the Creeke of Kenningham, till which time His Majeſty had not a barrell of powder, nor any armes, or ammunition whatſoever.</p>
+               <p>Iuly the fifth 1643 there was a fight on Landſdowne-hill, betwixt His Majeſties Forces under the command of the Marqueſſe of Hertford, and the Rebels under <hi>Sir VVilliam VValler;</hi> who (after eleven houres fight) ſtucke their lighted matches in the hedges, and ran quite away; leaving behind them above five hundred muſquets, fourteen barrells of powder, a whole Stand of Piques, with good ſtore of all ſorts of armes. Their Foote were abſolutely routed, and all diſperſed: his loſſe of Officers and Horſe very great, many hundreds of his men killed; His Majeſties Forces having the Pillage of the Field. And here was that moſt valiant Knight <hi>Sir Bev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll Greenvill</hi> unfortunately ſlaine in the Front of his men.</p>
+               <p>Iuly the twelfth 1642 the pretended two Houſes Voted, <hi>That the Earle of</hi> Eſſex <hi>ſhould be Generall of their Army, &amp; that they would live &amp; dye with him.</hi>
+               </p>
+               <p>The thirteenth of this moneth, 1643 about foure of the clocke in the after-noone the King and Queenes Majeſty met at <hi>Edge-hill,</hi> where the Rebels had received their maine overthrow: and the ſame day &amp; houre His Majeſties Forces under the com<g ref="char:EOLhyphen"/>mand of the Lord <hi>VVilmot</hi> Lieutenant Generall of the Horſe, the Earle of <hi>Carnarvon,</hi> the Earle of <hi>Craford,</hi> and the Lord <hi>Byron</hi> obtained another great and ſtrange Victo<g ref="char:EOLhyphen"/>ry upon Round way-downe, with fifteen hundred Horſe, &amp; two ſmall pieces of Ca<g ref="char:EOLhyphen"/>non only: wherewith they totally routed the Rebels army under the Command of that old-beaten Souldier Sir <hi>VVilliam VValler,</hi> conſiſting of above 2500. Foot. and 2000. Horſe, beſides 500. Dragoners, with eight pieces of braſſe Ordnance: ſlew ſix hundred of them in the place, tooke above nine hundred priſoners, all their ca<g ref="char:EOLhyphen"/>non armes, ammunition, waggons, baggage, and victuall 28. foot-enſignes, nine Coronets, and left not one Rebell, but what was either killed, taken priſoners, or narrowly eſcaped.</p>
+               <p>Vpon the fourteenth day of this moneth, 1643. his Highneſſe Prince <hi>Rupert</hi> having joyned his Forces to his Brothers, &amp; the whole body of their ſtrength being brought together, they ſate downe before, <hi>Bristol,</hi> and began their Batteries. And the 26. day (with unexpreſſible valour) they gained the Out-works. And the 27. day fol<g ref="char:EOLhyphen"/>lowing the City and Caſtle were delivered up to His Sacred Majeſty, with all the Ordnance, armes and ammunition.</p>
+            </div>
+            <div n="August" type="month">
+               <head>AVGVST.</head>
+               <p>The firſt of Auguſt, 1642. the Earle of <hi>Eſſex</hi> cauſed all the men then raiſed (being in number about 10000 to be committed to Officers, and divided into Regiments, which men had been raiſing ever ſince the 12. of Iuly 1642. at which time hee was made Generall of the Rebels.</p>
+               <p>Vpon the third of Auguſt 1643. Corf-Caſtle in the Iſle of Purbecke (which had been ſo often before beſieged by <hi>Sir VValter Earle</hi>) but had alwayes beaten off the
+<pb facs="tcp:108030:4"/>Rebels, and killed their Canoniers, was once more fallen upon by the rebels, who were ſo bravely received by Captaine <hi>Laurence,</hi> that ſixty of them were killed in the place: the reſt hearing of the moſt valiant Earle of <hi>Carnarvons</hi> approach, ran away.</p>
+               <p>Soone after, the Earle of <hi>Carnarvon</hi> ſummoned Dorcheſter, which was thereupon delivered up to his Lordſhip, with all the armes, ammunition, and canon: which were diſpoſed of, for his Majeſties uſe.</p>
+               <p>About the ninth of this moneth, 1643. the Caſtle and Iſle of Portland were redu<g ref="char:EOLhyphen"/>ced againe under His Majeſties command; And the Towne and Haven of Wey<g ref="char:EOLhyphen"/>mouth, and Melcombe, ſubmitted to His Majeſty.</p>
+               <p>Auguſt 20. 1643. Colonell <hi>Iohn Digby</hi> defeated the Rebels of Biddeford and Barn<g ref="char:EOLhyphen"/>ſtable, killed 100. of their Foot, tooke 211. Officers and common Souldiers Priſo<g ref="char:EOLhyphen"/>ners, (moſt of which were miſerably wounded) two pieces of Ordnance, ſix bar<g ref="char:EOLhyphen"/>rels of powder, 400. weight of bullet, 200. and a halfe of match, and above 300. armes; beſides all the Foot-Officers horſes: Purſued their Horſe to the very works of Biddeford, and returned victoriouſly, without the loſſe of more then one man, not one of the reſt of his Souldiers being ſo much as hurt all that day.</p>
+               <p>Auguſt 22. 1642. The King ſet up his Standard Royall at Nottingham, for raiſing of Forces to ſuppreſſe the Rebels then marching againſt him.</p>
+               <p>About the latter end of this moneth, 1643. The Inhabitants of Tenby in Pem<g ref="char:EOLhyphen"/>brook-ſhire, having but newly made an agreement amongſt themſelves, in which they declared their loyaltie to His Majeſtie, and that they would ſubmit to His Ma<g ref="char:EOLhyphen"/>jeſties Authority, placed in, the Earle of <hi>Carberie,</hi> &amp;c. Eight Ships rode before the Towne, and made at leaſt 100. ſhot thereat: whereupon one of the Haven-Ca<g ref="char:EOLhyphen"/>non was fired, which ſhot one of the beſt of the eight through and through, and ſo ſet the reſt a packing; whereby the good people of <hi>Tenby</hi> received no harme. And ſoone after the whole County was reduced, ſo as all Wales is abſolutely in ſubjecti<g ref="char:EOLhyphen"/>on to His Sacred Majeſty.</p>
+            </div>
+            <div n="September" type="month">
+               <head>SEPTEMBER.</head>
+               <p>Vpon the ſecond of this moneth 1643. the Townes of Biddeford and Appleford delivered up their ſeverall Garriſons to His Majeſties Forces, under the command of that Noble Colonell <hi>Iohn Digby<g ref="char:punc">▪</g>
+                  </hi> And about the ſame time the Garriſon of Barnſtaple ſubmitted themſelves unto His Majeſty, and diſmiſſed all their Forces formerly rai<g ref="char:EOLhyphen"/>ſed for the defence of that place.</p>
+               <p>Vpon the third of this moneth, 1643. his Highneſſe Prince <hi>Maurice</hi> gave a very not aſſault upon the City of Excheter, battered the walls, &amp; fired a great part of the Suburbs, whereupon the Rebels deſired Parley in which the Prince offered them ſuch Conditions, as had beene given before to Briſtoll, which they denyed. The aſ<g ref="char:EOLhyphen"/>ſault was afterwards eagerly purſued, and the next day after won the great Sconce, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urned the Ordnance there againſt the Towne. Whereupon the Rebels craved to be admitted to thoſe Conditions which before they rejected, &amp; obtained the ſame, delivered up the Towne &amp; Caſtle to the Prince his Highneſſe, with all the Ordnance, Armes, and Ammunition.</p>
+               <p>upon the 17. of this moneth, 1643. The rebels Army (ſtealing out of Glouceſter<g ref="char:EOLhyphen"/>ſhire towards London) were overtaken by Prince <hi>Rupert</hi> with his Majeſties Horſe, neere Auburne in Wilt-ſhire, where he gave them two charges, the one by a com<g ref="char:EOLhyphen"/>manded party under Colonell <hi>Vrrey,</hi> the other by the Queenes Regiment, com<g ref="char:EOLhyphen"/>manded
+<pb facs="tcp:108030:5"/>by the Lord <hi>Iermyn,</hi> who performed it ſo well on the Rebels whole Army, that many great bodies of Foot were routed, and many of them ſlaine in the place without any loſſe to His Majeſties Forces, ſave two common Souldiers killed, &amp; the Marqueſſe <hi>de la Vieu-ville</hi> taken priſoner, (who was afterwards murdered by the Re<g ref="char:EOLhyphen"/>bels in cold blood) and the Lord <hi>Digby</hi> and Lord <hi>Iermyn</hi> lightly wounded: by which two charges the Rebels Army was ſo retarded, that His Majeſty had time to over<g ref="char:EOLhyphen"/>take them with his Foote. And on Wedneſday after (the 20. of this moneth) upon an Hill neere Newbury and Enborne heath) His Majeſty fought with the Rebels who were ſeated in the moſt advantageous place imaginable: yet in deſpight of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Canon, Foote, and Horſe, His Majeſty beat them from their ground; gained the hill, and one piece of their braſſe Ordnance, and quickly routed all their Horſe upon the Heath. The moſt that were killed in this fight of His Majeſties Forces ex<g ref="char:EOLhyphen"/>ceeded not the number of 300. though aboue 600. of the Rebels were ſlaine, &amp; a ve<g ref="char:EOLhyphen"/>ry great number wounded. In this fight were ſlaine the moſt Noble and Valiant Earle of <hi>Carnarvon,</hi> the Earle of <hi>Sunderland,</hi> the Lord Viſcount <hi>Faulkland,</hi> with di<g ref="char:EOLhyphen"/>vers other Gentlemen and Commanders. After this fight the Rebels were further purſued, and routed againe, ſo as they fled into Reading, where they durſt not ſtay but left the Towne for His Majeſty, in whoſe poſſeſſion it is.</p>
+            </div>
+            <div n="October" type="month">
+               <head>OCTOBER.</head>
+               <p>Vpon the 18. of this moneth, 1643. the Prince of <hi>Harcourt</hi> Lord Ambaſſadour Ex<g ref="char:EOLhyphen"/>traordinary from the French King and Queene Regent, (after he had been moſt bar<g ref="char:EOLhyphen"/>barouſly uſed in his Paſſage by the rebels) came ſafe into Oxford, where he had entertainment more ſuitable to the worth of ſo great a perſonage.</p>
+               <p>The 21. day following (being Saturday) His Majeſty attended by the Prime Nobility of England) gave him Audience in Chriſt-Church-Hall.</p>
+               <p>Vpon the 23. day of this moneth, 1641. was that ſignall great battell fought be<g ref="char:EOLhyphen"/>tweene Keynton and Edge-Hill by His Majeſties Army, and that of the rebels led by the Earle of Eſſex: wherein the rebels loſt above 70. Colours of Coronets and Enſignes, &amp; His Majeſty but only 16. Enſignes, and not one Coronet. The exact number that were ſlaine on both ſides in this Battaile is not knowne: But it is cer<g ref="char:EOLhyphen"/>taine that the rebels loſt above three for one. Men of eminency, of his Majeſties Forces, who were ſlaine in the battaile were the two Noble and Valiant Lords, <hi>Rober<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Earle of <hi>Lindſey</hi> Lord High Chamberlaine of England, and <hi>George</hi> Lord <hi>d'Aubigney</hi> brother to the Duke of <hi>Richmond</hi> and <hi>Lenox,</hi> Sir <hi>Edmund Verney</hi> Knigt Marſhall to His Majeſty, with ſome other worthy Gentlemen and Souldiers, but beſides theſe three named, there was not one Noble man or Knight killed, which was an extraordinary mercy of Almighty God, conſidering what a glorious ſight of Princes Dukes Mar<g ref="char:EOLhyphen"/>queſſes, Earles, Viſcounts, Barons Knights and Gentlemen of all Orders, were not onely preſent, but engaged themſelves againſt the Rebels as much or more then Common Souldiers, which they moſt cheerefully did by example of His Sacred Ma<g ref="char:EOLhyphen"/>jeſty, whoſe Royall undaunted courage put life into every man, expoſing His Sacred Perſon to ſo much danger as all good men doe tremble to remember. His Royal Sonnes CHARLES Prince of Wales, and IAMES Duke of Yorke, being alſo in the field in very much danger, if God (whoſe cauſe it was) had not covered their heads in the day of battaile. The Rebells as they had few men of quality to loſe, ſo
+<pb facs="tcp:108030:5"/>thoſe they had, were ſenſible of their guilt which then they expreſſed by their ſlight ſome ſculking into holes and Saw pits, and others running out before they were well in the field.</p>
+            </div>
+            <div n="November" type="month">
+               <head>NOVEMBER.</head>
+               <p>Vpon the 12. of November, 1642. His Majeſty after 4. houres fight forced the Towne of Brainceford, killed and tooke priſoners all the Rebels Forces, which were there lodged in Works, Ditches, Houſes and Hedges, to hinder the paſſage of His Majeſties Army.</p>
+               <p>The morrow morning after (being Sunday) certaine of the Rebels had come downe the Thames from Kingſton, with 13. pieces of Ordnance which (ſo ſoone as they could ſee) they fired againſt Sion houſe, &amp; His Majeſties Traine of Artillerie; but did little or no harme. Whereupon Order was preſently given for drawing down ſome Pieces into the Meadow, and to the River-ſide againſt them; which was ac<g ref="char:EOLhyphen"/>cordingly done: and likewiſe a Demi-canon planted neere the South end of the Towne. All which were ſo judiciouſly plyed, that they ſhot through their Boats &amp; Barges, and at laſt fired the Powder in one of them, which blew up divers of the Rebels. Thoſe Rebels which eſcaped, tooke them to their heeles, leaving behind them their mangled Boats and Barges, with all their Ordnance, and the remainder of their Ammunition, on which His Majeſty preſently ſeized, and afterwards made an honourable and ſafe retreat to the City of Oxford.</p>
+            </div>
+            <div n="December" type="month">
+               <head>DECEMBER.</head>
+               <p>On monday the 5. of this moneth, 1642. His Majeſties Forces, under the com<g ref="char:EOLhyphen"/>mand of the Lieutenant Generall <hi>VVilmot,</hi> having his owne Regiment of Horſe, with the Lord <hi>Grandiſons,</hi> and Lord <hi>Digbeys,</hi> &amp; Sir <hi>VVilliam Pennymans,</hi> and Colonell <hi>Blagues</hi> Regiments of Foot, and Colonell <hi>Vſhers,</hi> and Colonell <hi>Grays,</hi> of Dragoones, tooke the Towns of Marlborough, defended by <hi>Robert Ramſey</hi> (a Scottiſh man) and about 500. Foot; <hi>Ramſey</hi> and divers of the chiefe Rebels brought Priſoners to Oxford; all their Armes taken, and foure Colours.</p>
+               <p>Here thou haſt the firſt fruites of my endeavours, expect the purſuance ſhort<g ref="char:EOLhyphen"/>ly. For a cloſe, I deſire all his Maieſties moſt loyall Subiects to take notice, that the Rebels having given Order to counterfeyte the <hi>GREAT SEALE OF ENGLAND,</hi> did on Friday the 29. of September laſt, cauſe this forged Seale to be brought into their Houſe of Commons, at which time it was approved by them, and cauſed to be put into a purſe, and left with the Mace, till they could get their Lords to paſſe it, who no doubt ere long (by the Lord <hi>Sayes</hi> diligence) will Vote it in their Houſe alſo. For ſince they have expreſſed their im<g ref="char:EOLhyphen"/>pudence to accuſe Her Sacred Majeſty of no leſſe then high Treaſon, onely for en<g ref="char:EOLhyphen"/>deavouring to preſerve the Kings Majeſty, whom they laboured to Murther, we can<g ref="char:EOLhyphen"/>not imagine they will ſticke at any thing. But that all good people may know this counterfeit Seale, they may pleaſe to take notice, that though it hath His Majeſties Image &amp; ſuperſcription, yet it hath the yeare 1643. which figures doe diſtinguiſh it from the true Seale now with His Sacred Majeſtie at Oxford.</p>
+               <epigraph>
+                  <q>
+                     <bibl>S. MATTH. 22.20, 21.</bibl>
+                     <p>And he ſaid unto them, whoſe is this Image and ſuperſcription? They ſay unto him Caeſars. Then ſaith he unto them, Render unto Caeſar the things which are Caeſars.</p>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="news">
+            <pb facs="tcp:108030:6"/>
+            <pb facs="tcp:108030:6"/>
+            <head>A CONTINVANCE OF THE ENGLISH NEWES, And eſpecially what noble exploits hath beene acted by His Majeſties Army, but chiefly in the moneths of May and Iune, 1644. taken out of ſe verall letters written from Cheſter, the eighteenth of Iune, 1644.</head>
+            <div type="letter">
+               <head>Sheusburys Rendezvous.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>On the 16. of May, Prince <hi>Rupert</hi> advanced with his Army towards Lan<g ref="char:EOLhyphen"/>caſhire, conſiſting of 2000. horſe and 6000. foot, or above (as is ſuppoſed) drawne out of the Covnties, of Hereford, Worſter, Stafford, Shrop ſhire and Cheſter; After ten dayes march, by reaſon of the roughneſſe of the wayes and weather, wee came to Stopford a large village in the confines of Lancaſhire, manned with the ene<g ref="char:EOLhyphen"/>mie, with fortifications, ſaving a river with bankes and a bridge deviding Che<g ref="char:EOLhyphen"/>ſhire from Lancaſhire, there the Prince intended to quarter that night, which af<g ref="char:EOLhyphen"/>ter a little diſpute from hedges and ditches upon an univerſall aſſault was abando<g ref="char:EOLhyphen"/>ned by the enemy, who fled towards Mancheſter ſome ſix miles diſtant, and by rea ſon the Sunne was downe the night made way to their eſcape, though they were purſued a great way and as was belieeved no man loſt of either ſide, the goods of the Towne was the Souldiers reward. Vpon the 28. of <hi>May,</hi> the Army marched to<g ref="char:EOLhyphen"/>wards Bolton, a large Countrey Towne in Lancaſhire ſome 16. miles from Stop<g ref="char:EOLhyphen"/>ford as wee marched, manned Likewiſe with 4000. men (as was informed) there the Prince intended to quarter that night onely; gates and high-wayes fortified lightly; the raine was ſo immoderate that it coſt an houre or two to diſpute, but
+<pb facs="tcp:108030:7"/>being <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, it was taken with the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a thouſand men of the ene<g ref="char:EOLhyphen"/>my, in the ſtreetes and fields, above twenty Coulors, ſix hundred priſoners, fifty Officers, twenty barrells of Powder; March and Armes a great quantity; the Towne, the Souldiers reward. As we lay in the Countrey about Bolton Generall <hi>Goring</hi> with his Northerne Army partly from the Marqueſſe of Newcaſtle, partly from Newarke conſiſting of five hundred horſe, and eight hundred foot, not ſo well appointed as was expected, with a great drove of Cattell out of the enemies quar<g ref="char:EOLhyphen"/>ters, as they marched; all this while great number of horſe and foote reſorted to the Prince, brought in by the Earle of Darbie's meanes, and Sir <hi>Thomas Tinſley,</hi> but unarmed moſt of them. Wigin a large towne ſome twenty miles from Bolton re<g ref="char:EOLhyphen"/>ceived the Prince and his Armie with great tokens of joy; the ſtreets being ſtrowed with ruſhes, flowers and boughs of trees.</p>
+               <p>
+                  <hi>Iune</hi> 7. We pitched before Leverpoole with our whole Armie, having beleague<g ref="char:EOLhyphen"/>red it with our horſe the day before, it had made walls with barres and gates; foureten pieces of Ordinance, a thouſand Souldiers (as was ſuppoſed) the matter was diſputed very hotly untill the tenth of <hi>Iune,</hi> with musket and great ſhot with<g ref="char:EOLhyphen"/>out meaſure out of the towne, and from the ſhipps, upon whch day our line ap<g ref="char:EOLhyphen"/>proached within a quoites caſt of the gate, where our great ſhot had almoſt filled the ditch with the ruins of the ſodd wales, and about noone a furious aſſault was made by our men where a terrible fight was on both ſides about the ſpace of an houre upon the workes, the enemie reſolute, ours not ſeconded retreated with ſome loſſe, the enemy whether diſpairing of reliefe or of their owne ſtrength againſt ſo great power, at mid night ſhipped themſelves, the chiefe of their men and goods and left twelve Collours on the works, hoiſed ſaile and rod within halfe a league of the towne, which Colonell <hi>Tiller</hi> perceiving, having the guard next the ſea, ſuppo<g ref="char:EOLhyphen"/>ſing the enemy to bee gone, entred the Towne with little or no reſiſtance, found about 400. of the meaner ſort of men whereof moſt were killed, ſome had quarter: foureten pieces of Ordnance left upon their carriages at their batteries, whatſoever was deſirable was the Souldiers right for their hard ſervice: twenty and ſix veſſells without tacklings were left in the harbour.</p>
+               <p>
+                  <hi>Iune</hi> the eight, Colonell <hi>Goring</hi> and Colonell <hi>Marrow</hi> cut off a partie coming from Warrington to Leverpoole <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo Scotts Majors taken, many killed.</p>
+            </div>
+            <div type="letter">
+               <head>Chester the ſecond of Iune, <hi>1644.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>The firſt letter from the Governour aſſured us of the Princes taking Stop<g ref="char:EOLhyphen"/>ford, where he diſperſt two thouſand of the Rebells forces being Cheſhire and Lan<g ref="char:EOLhyphen"/>caſhire men, and gave the plunder to his Souldiers, ſleighted their works, and the next day marched into Lancaſhire without any oppoſition, the other letter <hi>Dicke Greene</hi> brought who came from Latham yeſterday wherein the Goveruour aſſured us of the Princes taking Bolton, wherein were three thouſand, which upon the Princes coming into Lancaſhire raiſed from Latham, and came thither under the Command of <hi>Righy,</hi> His Highneſſe ſent to ſummon it and they baſely put to the ſword his meſſenger, whereupon he charged into the towne himſelfe with his
+<pb facs="tcp:108030:7"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap> of ſome ſixty men, the greateſt of any quality being a Captaiue Lieutenant to <hi>Robin Ellis,</hi> tooke the towne, killed dead upon the place above twelve hundred, tooke ſeven hundred Priſoners, and two thouſand Armes, it being a very rainy day the Souldiers went up to their very works, and beat them off with their ſwords and their but-ends of muskets, the Foote behaved themſelves very well, having beene beaten off twice, and tooke it the third time, we tooke two and twenty Collors from the Rogues, Sir <hi>Thomas Tyldeſly</hi> the very day after his coming into Lancaſhire recruited his Regiment from three hundred foote to twelve hundred, which came unto him well armed. My Lord of Derby upon Friday had a muſter at Ormes-Church, wherein came above three thouſand men, and moſt of them Armed, and tendred their ſervices to live and dye with him. Sir <hi>Gilbert Haughton</hi> being high Sheriffe of the County, the County comes in great numbers to him. My Lord <hi>Mullineux</hi> daily recruites his Regiment about Leverpoole.</p>
+               <p>Sir <hi>Thomas Tyldeſley</hi> got leave of his Highneſſe to go to Preſton with 2000. Foote and five hundred Horſe where he doth not doubt but to cut off the File where his owne and great many other that are Roman Catholicks have eſtates uppon Friday the Prince received an expreſſe from my Lord Marqueſſe of Newcaſtle intimating that he ſallied out of Yorke, beat up a Quarter of the Scotts, killed and tooke many and amongſt the reſt the chiefe officer next in Command to Leaſly and farther aſſu<g ref="char:EOLhyphen"/>red his Highneſſe that he had execution of them for ſome miles, and had ſo ſcattered their whole body that there was not a thouſand to be ſeene in a place. Hull ſtands neuter, they will neither deliver up their towne to the Lord Marqueſſe of Newcaſtle, nor to the Scots, theſe two are onely <hi>Dicke Greenes</hi> newes, and that the Prince in<g ref="char:EOLhyphen"/>tends to ſtay till he reduceth Lancaſhire, being my Lord Newcaſtle hath no preſent occaſion for his Highneſſe that may countervaile the ſervice he may doe His Ma<g ref="char:EOLhyphen"/>jeſtie in Lancaſhire; I ſhould have been very glad the Governor had but touched on it in his letter, but howſoever take it as I have it, and his oath and credit that it is true.</p>
+               <p>From Oxford, <hi>Eſſex</hi> is at Abington with 10000. horſe and foote, and <hi>VValler</hi> at Farrington in Barkſhire with 7000. horſe and foote, they come up to the very walls of Oxford, and skirmiſhes daily, yet it is conject<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed they will have nothing to doe with Oxford, but intend for Briſtoll and the Welt, whether my Lord <hi>Hopton</hi> is gone. <hi>Denbigh</hi> is before Ruſhon-houſe and all our forces in Namptwitch are drawne out to him, they ſay he intend, either to fall on, Sherewsbury or Bridge-North, Wemn Forces th'other day tooke all Sir <hi>Foulkes Hunckes</hi> carriages, upon the Prince declaring Sir <hi>Abram Shipman</hi> Governor of Oſeſtery, Colonell <hi>Loyde</hi> and all the forces quited the Towne and disbanded, whereupon the Townſ-men &amp; Wemn forces were upon ſome tearmes, and certainly wee had loſt the Towne, had not Colonell <hi>Marrow</hi> marched thither as he did, foure hundred foote and horſe of the enemies being three miles of Wemn &amp; the Townſ-men ſtood above an houre con<g ref="char:EOLhyphen"/>ſidering whether to let <hi>Marrow</hi> in or no, but at the laſt received him, he ſtayed ſome three dayes there, and hath ſetled Sir <hi>Abraham Shipman</hi> &amp; his Regiment, &amp; brought yeſterday two Lievtenants, and about fourty common Souldiers priſoners which he tooke of Wemn ſince he went, beſides many that he killed.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:108030:8"/>
+               <head>The preſent ſtate of the Armies in England.</head>
+               <p>PRince <hi>Ruport</hi> hath in Lancaſhire beſides the taking of Bolton and Le<g ref="char:EOLhyphen"/>verpoole, taken Colonell <hi>Shutlerworth</hi> priſoner with him, and defea<g ref="char:EOLhyphen"/>ted about 1000. men who followed the reare of his Army as it marcht, he is now at Sheffield expecting the coming of Sir <hi>Philip Muſgrove</hi> with the Cumberland men. The Marqueſſe of <hi>New-Caſtle</hi> is drawne out of Yorke into the field, and <hi>Goring</hi> is gone with 3000. horſe, to joyne with him till the Princes coming up; The Scots are admitted to Hull, and the loſſe which was of men fell onely upon <hi>Fairefax,</hi> and <hi>Man<g ref="char:EOLhyphen"/>cheſter,</hi> the Robells have taken Oſwaldſtree, and the Caſtle there, but the Kings Forces are come before it with 2500. men, and more are drawing againſt it daily: the Lord <hi>Denby</hi> is in it with about 1000. men they ſent away the plunder with a Convoy to Wenm which was inter<g ref="char:EOLhyphen"/>cepted by Colonell <hi>Marrow</hi> and the convoy cut off, and the newes goes they having diſcovered the word by ſome of the priſoners, marcht thither, and paſſing the ſentinell, forced the guard, and have taken the towne of Wenm which they have burned.</p>
+               <p>The King is now at Oxford: in his returne to Oxford he was ſet upon by <hi>VValler</hi> at Burham on wedneſday the 20. of Iune he having about 5000 horſe and dragooners Sir <hi>Arthur Ashion</hi> was drawne thither with about 3000. foote to aſſiſt His Majeſty, and there fighting with <hi>VValler,</hi> they have routed him and killed 1000 upon the place, <hi>VValler</hi> and the reſt retreated to Gloceſter <hi>VValler</hi> had before that time attempted Worcheſter and ſtayed before it two dayes, but was beaten off, with loſſe only, gave occaſion by his ſitting downe there to the Governour to burne the ſuburbs of the Citie where many faire buildings were.</p>
+               <p>
+                  <hi>Eſsex</hi> is drawne downe towards the Weſt with the foote and canon where we heare for certaine my Lord <hi>Hopton</hi> is ready to receive him with a good Army, and Prince <hi>Maurice</hi> who is yet before Line is ready to joyne with him, but we hearing nothing as yet of their proceedings: Colonell <hi>Gerret</hi> hath beat the Rebells out of Carmarthenſhire, and Pembrocke<g ref="char:EOLhyphen"/>ſhire into the the Townes, of Pembrocke and Denby.</p>
+               <pb facs="tcp:108030:8"/>
+               <p>Sir <hi>Thomas Lunsford,</hi> and Colonell <hi>Gage,</hi> wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en the King was at Wor<g ref="char:EOLhyphen"/>ceſter marcht into Bukinghamſhire plundered all the County, and have driven all the cattell to Oxford, Sir <hi>Iohn Mences</hi> is drawing out all the forces of the Counties of Angleſy, Carnarvon, and meaneth to march and joyne with <hi>Marrow,</hi> for the regaining of Oſwaldſtree.</p>
+               <p>
+                  <hi>Iuly</hi> the third, We heare ſince by certaine intelligence, that Colonell <hi>Shutlerworth</hi> is killed and was not taken priſoner, that the Scotts are not admitted to Hull, and that Colonell <hi>Marrow</hi> hath taken the Church of Oſwaldſtree, but the Rebells hold the Towne, and Caſtle yet, and that the Earle of <hi>Denby</hi> is not there. <hi>Brereton,</hi> and the other Rebells about Che<g ref="char:EOLhyphen"/>ſhire, Staffordſhire are drawing all into a body, but for what deſigne is not yet knowne, unleſſe it be for the reliefe of Oſwaldſtree, the laſt newes ſaith, that <hi>Marrow</hi> hath 6000. men before it.</p>
+               <p>The King is with an Army at Bedford, and from thence is marching towards Norfolke and Suffolke. <hi>VValler</hi> is with his forces about Huſham &amp; theſe parts. A great Treaſon was diſcovered in Briſtoll for the yeelding of the Towne to the Parliament which cauſed <hi>Eſſex</hi> and <hi>VValler</hi> to draw out of London a month ſooner then they intended: there are 25, of the principall men there committed, for being privy thereunto.</p>
+               <p>
+                  <hi>Eſsex</hi> is with his Army at Dorcheſter and Colonell <hi>Apernam</hi> hath quited Weymouth with the Ship and Gariſon upon what reaſon is yet unknown conſidering that little Warham-cloſe by it, holds out ſtill and hath repul<g ref="char:EOLhyphen"/>ſed the enemy. Prince <hi>Maurice</hi> is riſen from before Line, hath a good Ar<g ref="char:EOLhyphen"/>my and is drawne neere Briſtoll, to joyne with the Lord <hi>Hopton,</hi> and ſo to fight with <hi>Eſſex,</hi> but he they ſay is called backe, and is highly diſplea<g ref="char:EOLhyphen"/>ſed with his maſters at London, but is not like to bring up all his Army with him for that one whole Regiments of Kentiſh-men have left him, and are come over to the Lord <hi>Hopton.</hi>
+               </p>
+               <p>
+                  <hi>Iuly</hi> the fifth, Sir <hi>Lewys Dives</hi> is come from Court, who left the King the 21. of the laſt at Dunſtable and marching to S. <hi>Albans,</hi> from whence hee intends to ſummon the City in the abſence of their trained bands, and their two Generalls, Oſwaldſtree is relieved by the Rebells, and our ſiege raiſed.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
